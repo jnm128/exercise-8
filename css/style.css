@@ -2,7 +2,7 @@ body {
   font-size: 14px;
   font-family: sans-serif;
   color: #222;
-  line-height: 3.5;
+  line-height: 1.5;
 }
 
 header {
@@ -15,7 +15,7 @@ header em {
 
 header a {
   background-color: #eee;
-  color: #444;
+  color: #555;
 }
 
 header a:visited {
