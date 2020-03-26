@@ -29,7 +29,7 @@
         <h2>Hardware</h2>
 
    <article>
-          <h2>The hardware department of CatComputing.com is managed by Flynn's Retro Computers, a web shop dedicated to old-school minicomputers from the 1970s and 1980s. We've got the most complete <em>cat</em>alog anywhere on the Internet!</h2>
+          <h5>The hardware department of CatComputing.com is managed by Flynn's Retro Computers, a web shop dedicated to old-school minicomputers from the 1970s and 1980s. We've got the most complete <em>cat</em>alog anywhere on the Internet!</h5>
 
   <aside>
             <img src="img/vintage-hardware.jpg" alt="An array of our vintage computers">
@@ -42,7 +42,7 @@
  <section id="software">
         <h2>Software</h2>
         <article>
-          <h2>The software department of CatComputing.com is managed by Quorra's Software Shack. We can supply all your software needs, from programming languages and operating systems to applications and games.</h2>
+          <h5>The software department of CatComputing.com is managed by Quorra's Software Shack. We can supply all your software needs, from programming languages and operating systems to applications and games.</h5>
      <aside>
             <img src="img/vintage-software.jpg" alt="An array of our vintage software">
             <p>Only the finest software! <em>(Photo by Greg Smith, CC BY-NC 2.0)</em></p>
