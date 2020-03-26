@@ -38,6 +38,9 @@ aside em {
 #hardware h2 {
   color: rgb(218,58,51);
 }
+#hardware h5 {
+  color: rgb(218,58,51);
+}
 
 #hardware img {
   border-color: rgb(218,58,51);
@@ -45,6 +48,9 @@ aside em {
 
 #software h2 {
   color: rgb(21,88,218);
+}
+#hardware h5 {
+  color: rgb(218,58,51);
 }
 
 #software img {
